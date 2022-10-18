@@ -1,4 +1,6 @@
-## Olá sou Willy Damásio, estou cursando Superior em Redes de computadores e estudando programação nos tempos vagos. !
+## Olá sou Willy Damásio !
+<p>Cursando Redes de computadores</p>
+<p>Curso de Programação WEB IFRS </p>
 <div align="center">
   <a href="https://github.com/damaazsio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damaazsio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
