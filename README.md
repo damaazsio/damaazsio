@@ -1,6 +1,6 @@
 ## Olá sou Willy Damásio !
 
-<h2>Curso de Programação WEB IFRS <br/> Redes de computadores Estácio </br>
+<h2>Curso de Programador WEB IFRS <br/> Redes de computadores Estácio </br> Segurança em Redes e Sistemas </br>
  </h2>
 <div align="center">
   <a href="https://github.com/damaazsio">
